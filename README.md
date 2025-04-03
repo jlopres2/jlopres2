@@ -35,6 +35,11 @@
 
 # 📌 Pinned Projects
 
+### [DataAlgo](https://github.com/jlopres2/budget-central)
+A web app designed to help users manage their personal finances by tracking expenses, setting budgets, and analyzing spending habits.
+- 🛠️ **Tech Stack:** React, Node.js, MongoDB, TypeScript
+- 🌟 **Features:** Expense tracker, budget planner, spending analysis, real-time updates
+
 ### [DataAlgo](https://github.com/jlopres2/data-algo)
 A web app that helps users recognize and choose the best data structure for a given problem through multiple-choice questions. Built with TypeScript, React, and Node.js.
 - 🛠️ **Tech Stack:** React, Node.js, TypeScript, MongoDB
