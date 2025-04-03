@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joe!
 💻 Software Engineer looking to make a difference<br/>
 🎓 Studied Computer Engineering at Villanova University<br/>
-🎨 Currently working on [DataAlgo](https://github.com/jlopres2/data-algo)<br/>
+🎨 Currently working on [Budget-Central](https://github.com/jlopres2/budget-central)<br/>
 🏃 Runner | 🧠 Lifelong learner | 🏓 Pickleball enthusiast
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
