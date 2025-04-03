@@ -35,7 +35,7 @@
 
 # 📌 Pinned Projects
 
-### [DataAlgo](https://github.com/jlopres2/budget-central)
+### [Budget Central](https://github.com/jlopres2/budget-central)
 A web app designed to help users manage their personal finances by tracking expenses, setting budgets, and analyzing spending habits.
 - 🛠️ **Tech Stack:** React, Node.js, MongoDB, TypeScript
 - 🌟 **Features:** Expense tracker, budget planner, spending analysis, real-time updates
